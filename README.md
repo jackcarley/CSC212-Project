@@ -21,7 +21,11 @@ python3 any2img.py <in_file> <out_file>
 -----------------------------------Sierpinski Triangle-----------------------------------
 by Hassan Bhatti
 
+In order to compile the Sierpinski Triangle file, please run the g++ compiler in the terminal. Based on the version of your IDE,
+you may or may not need and extension of -s=c++11. You amy also use -o main for the execution or ./a.out command in the 
+terminal only if after you have previously compiled the code.
 
+Once the code has been compile and executed, there will be a user based command prompt. 
 -----------------------------------Koch snowflake------------------------------------
 by Brent Moynahan
 
