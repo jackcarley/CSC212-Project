@@ -2,7 +2,7 @@
 Recursive Graphics
 
 -----------------------------------Hilbert Curve-----------------------------------
-by Jack Carley
+-by Jack Carley
 
 To compile the Hilbert Curve file run a g++ compiler command simimlar to the following in your computer's terminal 
 $g++ hilbert_curve.cpp -o main
