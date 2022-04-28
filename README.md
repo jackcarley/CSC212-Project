@@ -1,7 +1,7 @@
 # CSC212-Project
 Recursive Graphics
 
------------------------------------Hilbert Curve-----------------------------------
+--------------------------------------Hilbert Curve--------------------------------------
 by Jack Carley
 
 To compile the Hilbert Curve file run a g++ compiler command simimlar to the following in your computer's terminal 
