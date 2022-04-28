@@ -1,6 +1,8 @@
 # CSC212-Project
 Recursive Graphics
 
+-----------------------------------Hilbert Curve-----------------------------------
+by Jack Carley
 
 To compile the Hilbert Curve file run a g++ compiler command simimlar to the following in your computer's terminal 
 $g++ hilbert_curve.cpp -o main
@@ -15,3 +17,11 @@ The python script any2img.py was provided by the CSC212 class and was not create
 
 To run the python script, run the following in your computer's terminal
 python3 any2img.py <in_file> <out_file>
+
+-----------------------------------Sierpinski Triangle-----------------------------------
+by Hassan Bhatti
+
+
+-----------------------------------Koch snowflake------------------------------------
+by Brent Moynahan
+
