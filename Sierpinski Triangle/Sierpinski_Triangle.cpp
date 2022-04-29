@@ -1,4 +1,5 @@
-// Sierpinski Triangle
+
+// Sierpinski Triangle (pattern implementation)
 
 // Hassan Bhatti
 // CSC 212
@@ -23,7 +24,7 @@ void triangle_Sierpinski(int x){
             file <<" "<<" ";
         }
 
-        for (int mid = 0; (mid + base) < x; m++){
+        for (int mid = 0; (mid + base) < x; mid++){
             if(mid & base){
                 file<< " "<<" ";
             }
@@ -31,6 +32,8 @@ void triangle_Sierpinski(int x){
                 file<< "▲ ";
             }
         }
+
+
 
         file<<endl;
     }
